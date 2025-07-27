@@ -1,0 +1,97 @@
+=========== VASAVI COLLEGE OF ENGINEERING (AUTONOMOUS) ===========
+=========== DEPARTMENT OF INFORMATION TECHNOLOGY ===========
+=========== TIMETABLE - 2024-25 EVEN SEMESTER ===========
+COURSE: B.E		SEMESTER: IV		Branch/Section: IT-B		ROOM NO.: VS-301
+
+DAY/TIME    9:40-10:40     10:40-11:40    11:40-12:40    12:40-1:20 (Lunch)1:20-2:20      2:20-3:20      3:20-4:20      
+---------------------------------------------------------------------------------------------------------------------
+Monday      P&S            DBMS           DAA            LUNCH          HVPE-II        Mentoring      FSD            
+Tuesday     CO             P&S            OE-II          LUNCH          CCA-II         (continued)    DBMS           
+Wednesday   DAA            FSD            CO             LUNCH          DBMS Lab       (continued)    DBMS           
+Thursday    DAA Lab        (continued)    FSD            LUNCH          DAA            SDC-IV: TS-II  (continued)    
+Friday      HVPE-II        SDC-III: APT   (continued)    LUNCH          Library        Sports         OE-II          
+Saturday    DBMS           FSD Lab        (continued)    LUNCH          CO             P&S            DAA            
+
+
+=========== SUBJECT DETAILS ===========
+
+Subject: P&S
+Duration: 1 hour(s)
+Weekly Occurrences: 3
+Faculty: Dr. R Hari Kishore
+
+Subject: CO
+Duration: 1 hour(s)
+Weekly Occurrences: 3
+Faculty: Dr. K Ram Mohan Rao, K Srinivasa Chakravarthy, Dr. B Kezia Rani
+
+Subject: DBMS
+Duration: 1 hour(s)
+Weekly Occurrences: 3
+Faculty: Dr. S Aruna, G Radha, Some Sanyal
+
+Subject: DAA
+Duration: 1 hour(s)
+Weekly Occurrences: 3
+Faculty: DRL Prasanna, C Sireesha, Haseeb Yaseen
+
+Subject: FSD
+Duration: 1 hour(s)
+Weekly Occurrences: 3
+Faculty: S Renuka, Dr. B Kezia Rani, M Sathya Devi
+
+Subject: OE-II
+Duration: 1 hour(s)
+Weekly Occurrences: 2
+Faculty: N David Raju, Dr. S K Prashanth
+
+Subject: HVPE-II
+Duration: 1 hour(s)
+Weekly Occurrences: 1
+Faculty: Sreeja
+
+Subject: SDC-III: APT
+Duration: 2 hour(s)
+Weekly Occurrences: 1
+Faculty: Hari Krishna
+
+Subject: SDC-IV: TS-II
+Duration: 2 hour(s)
+Weekly Occurrences: 1
+Faculty: External Expert
+
+Subject: DBMS Lab
+Duration: 2 hour(s)
+Weekly Occurrences: 1
+Faculty: Dr. S Aruna, Dr. S K Prashanth, G Radha, B Leelavathy, Some Sanyal
+
+Subject: DAA Lab
+Duration: 2 hour(s)
+Weekly Occurrences: 1
+Faculty: DRL Prasanna, C Sireesha, Haseeb Yaseen, R Nanda Kumari
+
+Subject: FSD Lab
+Duration: 2 hour(s)
+Weekly Occurrences: 1
+Faculty: S Renuka, Dr. B Kezia Rani, Dr. K Rama Krishna, N David Raju, M Sathya Devi
+
+Subject: CCA-II
+Duration: 2 hour(s)
+Weekly Occurrences: 1
+Faculty: Dr. S Sreelakshmi, R Nanda Kumari, G Radha, Dr. M Neelakantappa, Sruthi Anand
+
+Subject: Sports
+Duration: 1 hour(s)
+Weekly Occurrences: 1
+Faculty: Coach
+
+Subject: Library
+Duration: 1 hour(s)
+Weekly Occurrences: 1
+Faculty: None assigned
+
+Subject: Mentoring
+Duration: 1 hour(s)
+Weekly Occurrences: 1
+Faculty: None assigned
+

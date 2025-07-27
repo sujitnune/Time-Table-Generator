@@ -1,0 +1,317 @@
+=========== FACULTY WORKLOAD REPORT ===========
+
+Faculty: Hari Krishna
+Schedule:
+  Tuesday, 1:20-2:20, Section IT-A, SDC-III: APT
+  Wednesday, 9:40-10:40, Section IT-C, SDC-III: APT
+  Friday, 10:40-11:40, Section IT-B, SDC-III: APT
+Total Hours: 3
+
+Faculty: External Expert
+Schedule:
+  Thursday, 2:20-3:20, Section IT-B, SDC-IV: TS-II
+  Friday, 1:20-2:20, Section IT-A, SDC-IV: TS-II
+  Saturday, 2:20-3:20, Section IT-C, SDC-IV: TS-II
+Total Hours: 3
+
+Faculty: Dr. S Aruna
+Schedule:
+  Monday, 10:40-11:40, Section IT-B, DBMS
+  Monday, 1:20-2:20, Section IT-A, DBMS
+  Tuesday, 9:40-10:40, Section IT-C, DBMS
+  Tuesday, 3:20-4:20, Section IT-B, DBMS
+  Wednesday, 11:40-12:40, Section IT-A, DBMS
+  Wednesday, 1:20-2:20, Section IT-B, DBMS Lab
+  Wednesday, 3:20-4:20, Section IT-B, DBMS
+  Thursday, 10:40-11:40, Section IT-C, DBMS Lab
+  Thursday, 3:20-4:20, Section IT-A, DBMS
+  Friday, 9:40-10:40, Section IT-A, DBMS Lab
+  Friday, 3:20-4:20, Section IT-C, DBMS
+  Saturday, 9:40-10:40, Section IT-B, DBMS
+  Saturday, 10:40-11:40, Section IT-C, DBMS
+  Saturday, 11:40-12:40, Section IT-A, DBMS
+Total Hours: 14
+
+Faculty: Dr. S K Prashanth
+Schedule:
+  Monday, 3:20-4:20, Section IT-C, OE-II
+  Tuesday, 10:40-11:40, Section IT-C, OE-II
+  Tuesday, 11:40-12:40, Section IT-B, OE-II
+  Wednesday, 1:20-2:20, Section IT-B, DBMS Lab
+  Thursday, 10:40-11:40, Section IT-C, DBMS Lab
+  Thursday, 1:20-2:20, Section IT-A, OE-II
+  Friday, 9:40-10:40, Section IT-A, DBMS Lab
+  Friday, 3:20-4:20, Section IT-B, OE-II
+  Saturday, 1:20-2:20, Section IT-A, OE-II
+Total Hours: 9
+
+Faculty: G Radha
+Schedule:
+  Monday, 10:40-11:40, Section IT-B, DBMS
+  Monday, 1:20-2:20, Section IT-A, DBMS
+  Tuesday, 9:40-10:40, Section IT-C, DBMS
+  Tuesday, 10:40-11:40, Section IT-A, CCA-II
+  Tuesday, 1:20-2:20, Section IT-B, CCA-II
+  Tuesday, 3:20-4:20, Section IT-B, DBMS
+  Wednesday, 11:40-12:40, Section IT-A, DBMS
+  Wednesday, 1:20-2:20, Section IT-B, DBMS Lab
+  Wednesday, 3:20-4:20, Section IT-B, DBMS
+  Thursday, 10:40-11:40, Section IT-C, DBMS Lab
+  Thursday, 3:20-4:20, Section IT-A, DBMS
+  Friday, 9:40-10:40, Section IT-A, DBMS Lab
+  Friday, 1:20-2:20, Section IT-C, CCA-II
+  Friday, 3:20-4:20, Section IT-C, DBMS
+  Saturday, 9:40-10:40, Section IT-B, DBMS
+  Saturday, 10:40-11:40, Section IT-C, DBMS
+  Saturday, 11:40-12:40, Section IT-A, DBMS
+Total Hours: 17
+
+Faculty: B Leelavathy
+Schedule:
+  Wednesday, 1:20-2:20, Section IT-B, DBMS Lab
+  Thursday, 10:40-11:40, Section IT-C, DBMS Lab
+  Friday, 9:40-10:40, Section IT-A, DBMS Lab
+Total Hours: 3
+
+Faculty: Some Sanyal
+Schedule:
+  Monday, 10:40-11:40, Section IT-B, DBMS
+  Monday, 1:20-2:20, Section IT-A, DBMS
+  Tuesday, 9:40-10:40, Section IT-C, DBMS
+  Tuesday, 3:20-4:20, Section IT-B, DBMS
+  Wednesday, 11:40-12:40, Section IT-A, DBMS
+  Wednesday, 1:20-2:20, Section IT-B, DBMS Lab
+  Wednesday, 3:20-4:20, Section IT-B, DBMS
+  Thursday, 10:40-11:40, Section IT-C, DBMS Lab
+  Thursday, 3:20-4:20, Section IT-A, DBMS
+  Friday, 9:40-10:40, Section IT-A, DBMS Lab
+  Friday, 3:20-4:20, Section IT-C, DBMS
+  Saturday, 9:40-10:40, Section IT-B, DBMS
+  Saturday, 10:40-11:40, Section IT-C, DBMS
+  Saturday, 11:40-12:40, Section IT-A, DBMS
+Total Hours: 14
+
+Faculty: DRL Prasanna
+Schedule:
+  Monday, 11:40-12:40, Section IT-B, DAA
+  Monday, 2:20-3:20, Section IT-A, DAA Lab
+  Tuesday, 3:20-4:20, Section IT-C, DAA
+  Wednesday, 9:40-10:40, Section IT-B, DAA
+  Wednesday, 1:20-2:20, Section IT-A, DAA
+  Wednesday, 2:20-3:20, Section IT-C, DAA
+  Thursday, 9:40-10:40, Section IT-B, DAA Lab
+  Thursday, 1:20-2:20, Section IT-B, DAA
+  Thursday, 2:20-3:20, Section IT-C, DAA Lab
+  Friday, 9:40-10:40, Section IT-C, DAA
+  Friday, 3:20-4:20, Section IT-A, DAA
+  Saturday, 9:40-10:40, Section IT-A, DAA
+  Saturday, 1:20-2:20, Section IT-C, DAA
+  Saturday, 3:20-4:20, Section IT-B, DAA
+Total Hours: 14
+
+Faculty: C Sireesha
+Schedule:
+  Monday, 11:40-12:40, Section IT-B, DAA
+  Monday, 2:20-3:20, Section IT-A, DAA Lab
+  Tuesday, 3:20-4:20, Section IT-C, DAA
+  Wednesday, 9:40-10:40, Section IT-B, DAA
+  Wednesday, 1:20-2:20, Section IT-A, DAA
+  Wednesday, 2:20-3:20, Section IT-C, DAA
+  Thursday, 9:40-10:40, Section IT-B, DAA Lab
+  Thursday, 1:20-2:20, Section IT-B, DAA
+  Thursday, 2:20-3:20, Section IT-C, DAA Lab
+  Friday, 9:40-10:40, Section IT-C, DAA
+  Friday, 3:20-4:20, Section IT-A, DAA
+  Saturday, 9:40-10:40, Section IT-A, DAA
+  Saturday, 1:20-2:20, Section IT-C, DAA
+  Saturday, 3:20-4:20, Section IT-B, DAA
+Total Hours: 14
+
+Faculty: Haseeb Yaseen
+Schedule:
+  Monday, 11:40-12:40, Section IT-B, DAA
+  Monday, 2:20-3:20, Section IT-A, DAA Lab
+  Tuesday, 3:20-4:20, Section IT-C, DAA
+  Wednesday, 9:40-10:40, Section IT-B, DAA
+  Wednesday, 1:20-2:20, Section IT-A, DAA
+  Wednesday, 2:20-3:20, Section IT-C, DAA
+  Thursday, 9:40-10:40, Section IT-B, DAA Lab
+  Thursday, 1:20-2:20, Section IT-B, DAA
+  Thursday, 2:20-3:20, Section IT-C, DAA Lab
+  Friday, 9:40-10:40, Section IT-C, DAA
+  Friday, 3:20-4:20, Section IT-A, DAA
+  Saturday, 9:40-10:40, Section IT-A, DAA
+  Saturday, 1:20-2:20, Section IT-C, DAA
+  Saturday, 3:20-4:20, Section IT-B, DAA
+Total Hours: 14
+
+Faculty: R Nanda Kumari
+Schedule:
+  Monday, 2:20-3:20, Section IT-A, DAA Lab
+  Tuesday, 10:40-11:40, Section IT-A, CCA-II
+  Tuesday, 1:20-2:20, Section IT-B, CCA-II
+  Thursday, 9:40-10:40, Section IT-B, DAA Lab
+  Thursday, 2:20-3:20, Section IT-C, DAA Lab
+  Friday, 1:20-2:20, Section IT-C, CCA-II
+Total Hours: 6
+
+Faculty: S Renuka
+Schedule:
+  Monday, 9:40-10:40, Section IT-A, FSD Lab
+  Monday, 1:20-2:20, Section IT-C, FSD Lab
+  Monday, 3:20-4:20, Section IT-B, FSD
+  Tuesday, 3:20-4:20, Section IT-A, FSD
+  Wednesday, 10:40-11:40, Section IT-B, FSD
+  Wednesday, 2:20-3:20, Section IT-A, FSD
+  Wednesday, 3:20-4:20, Section IT-C, FSD
+  Thursday, 10:40-11:40, Section IT-A, FSD
+  Thursday, 11:40-12:40, Section IT-B, FSD
+  Thursday, 1:20-2:20, Section IT-C, FSD
+  Friday, 10:40-11:40, Section IT-C, FSD
+  Saturday, 10:40-11:40, Section IT-B, FSD Lab
+  Saturday, 2:20-3:20, Section IT-A, FSD
+Total Hours: 13
+
+Faculty: Dr. B Kezia Rani
+Schedule:
+  Monday, 9:40-10:40, Section IT-A, FSD Lab
+  Monday, 11:40-12:40, Section IT-A, CO
+  Monday, 1:20-2:20, Section IT-C, FSD Lab
+  Monday, 3:20-4:20, Section IT-B, FSD
+  Tuesday, 9:40-10:40, Section IT-B, CO
+  Tuesday, 11:40-12:40, Section IT-C, CO
+  Tuesday, 3:20-4:20, Section IT-A, FSD
+  Wednesday, 10:40-11:40, Section IT-B, FSD
+  Wednesday, 11:40-12:40, Section IT-B, CO
+  Wednesday, 1:20-2:20, Section IT-C, CO
+  Wednesday, 2:20-3:20, Section IT-A, FSD
+  Wednesday, 3:20-4:20, Section IT-C, FSD
+  Thursday, 9:40-10:40, Section IT-C, CO
+  Thursday, 10:40-11:40, Section IT-A, FSD
+  Thursday, 11:40-12:40, Section IT-B, FSD
+  Thursday, 1:20-2:20, Section IT-C, FSD
+  Thursday, 2:20-3:20, Section IT-A, CO
+  Friday, 10:40-11:40, Section IT-C, FSD
+  Friday, 11:40-12:40, Section IT-A, CO
+  Saturday, 9:40-10:40, Section IT-C, CO
+  Saturday, 10:40-11:40, Section IT-B, FSD Lab
+  Saturday, 1:20-2:20, Section IT-B, CO
+  Saturday, 2:20-3:20, Section IT-A, FSD
+Total Hours: 23
+
+Faculty: Dr. K Rama Krishna
+Schedule:
+  Monday, 9:40-10:40, Section IT-A, FSD Lab
+  Monday, 1:20-2:20, Section IT-C, FSD Lab
+  Saturday, 10:40-11:40, Section IT-B, FSD Lab
+Total Hours: 3
+
+Faculty: N David Raju
+Schedule:
+  Monday, 9:40-10:40, Section IT-A, FSD Lab
+  Monday, 1:20-2:20, Section IT-C, FSD Lab
+  Monday, 3:20-4:20, Section IT-C, OE-II
+  Tuesday, 10:40-11:40, Section IT-C, OE-II
+  Tuesday, 11:40-12:40, Section IT-B, OE-II
+  Thursday, 1:20-2:20, Section IT-A, OE-II
+  Friday, 3:20-4:20, Section IT-B, OE-II
+  Saturday, 10:40-11:40, Section IT-B, FSD Lab
+  Saturday, 1:20-2:20, Section IT-A, OE-II
+Total Hours: 9
+
+Faculty: M Sathya Devi
+Schedule:
+  Monday, 9:40-10:40, Section IT-A, FSD Lab
+  Monday, 1:20-2:20, Section IT-C, FSD Lab
+  Monday, 3:20-4:20, Section IT-B, FSD
+  Tuesday, 3:20-4:20, Section IT-A, FSD
+  Wednesday, 10:40-11:40, Section IT-B, FSD
+  Wednesday, 2:20-3:20, Section IT-A, FSD
+  Wednesday, 3:20-4:20, Section IT-C, FSD
+  Thursday, 10:40-11:40, Section IT-A, FSD
+  Thursday, 11:40-12:40, Section IT-B, FSD
+  Thursday, 1:20-2:20, Section IT-C, FSD
+  Friday, 10:40-11:40, Section IT-C, FSD
+  Saturday, 10:40-11:40, Section IT-B, FSD Lab
+  Saturday, 2:20-3:20, Section IT-A, FSD
+Total Hours: 13
+
+Faculty: Dr. S Sreelakshmi
+Schedule:
+  Tuesday, 10:40-11:40, Section IT-A, CCA-II
+  Tuesday, 1:20-2:20, Section IT-B, CCA-II
+  Friday, 1:20-2:20, Section IT-C, CCA-II
+Total Hours: 3
+
+Faculty: Dr. M Neelakantappa
+Schedule:
+  Tuesday, 10:40-11:40, Section IT-A, CCA-II
+  Tuesday, 1:20-2:20, Section IT-B, CCA-II
+  Friday, 1:20-2:20, Section IT-C, CCA-II
+Total Hours: 3
+
+Faculty: Sruthi Anand
+Schedule:
+  Tuesday, 10:40-11:40, Section IT-A, CCA-II
+  Tuesday, 1:20-2:20, Section IT-B, CCA-II
+  Friday, 1:20-2:20, Section IT-C, CCA-II
+Total Hours: 3
+
+Faculty: Dr. K Ram Mohan Rao
+Schedule:
+  Monday, 11:40-12:40, Section IT-A, CO
+  Tuesday, 9:40-10:40, Section IT-B, CO
+  Tuesday, 11:40-12:40, Section IT-C, CO
+  Wednesday, 11:40-12:40, Section IT-B, CO
+  Wednesday, 1:20-2:20, Section IT-C, CO
+  Thursday, 9:40-10:40, Section IT-C, CO
+  Thursday, 2:20-3:20, Section IT-A, CO
+  Friday, 11:40-12:40, Section IT-A, CO
+  Saturday, 9:40-10:40, Section IT-C, CO
+  Saturday, 1:20-2:20, Section IT-B, CO
+Total Hours: 10
+
+Faculty: K Srinivasa Chakravarthy
+Schedule:
+  Monday, 11:40-12:40, Section IT-A, CO
+  Tuesday, 9:40-10:40, Section IT-B, CO
+  Tuesday, 11:40-12:40, Section IT-C, CO
+  Wednesday, 11:40-12:40, Section IT-B, CO
+  Wednesday, 1:20-2:20, Section IT-C, CO
+  Thursday, 9:40-10:40, Section IT-C, CO
+  Thursday, 2:20-3:20, Section IT-A, CO
+  Friday, 11:40-12:40, Section IT-A, CO
+  Saturday, 9:40-10:40, Section IT-C, CO
+  Saturday, 1:20-2:20, Section IT-B, CO
+Total Hours: 10
+
+Faculty: Dr. R Hari Kishore
+Schedule:
+  Monday, 9:40-10:40, Section IT-B, P&S
+  Monday, 11:40-12:40, Section IT-C, P&S
+  Tuesday, 9:40-10:40, Section IT-A, P&S
+  Tuesday, 10:40-11:40, Section IT-B, P&S
+  Wednesday, 10:40-11:40, Section IT-A, P&S
+  Wednesday, 11:40-12:40, Section IT-C, P&S
+  Thursday, 11:40-12:40, Section IT-A, P&S
+  Friday, 11:40-12:40, Section IT-C, P&S
+  Saturday, 11:40-12:40, Section IT-C, P&S
+  Saturday, 2:20-3:20, Section IT-B, P&S
+Total Hours: 10
+
+Faculty: Sreeja
+Schedule:
+  Monday, 1:20-2:20, Section IT-B, HVPE-II
+  Tuesday, 2:20-3:20, Section IT-C, HVPE-II
+  Thursday, 9:40-10:40, Section IT-A, HVPE-II
+  Friday, 9:40-10:40, Section IT-B, HVPE-II
+  Saturday, 10:40-11:40, Section IT-A, HVPE-II
+Total Hours: 5
+
+Faculty: Coach
+Schedule:
+  Monday, 9:40-10:40, Section IT-C, Sports
+  Friday, 2:20-3:20, Section IT-B, Sports
+  Saturday, 3:20-4:20, Section IT-A, Sports
+Total Hours: 3
+

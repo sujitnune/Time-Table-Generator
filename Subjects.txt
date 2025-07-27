@@ -1,0 +1,16 @@
+P&S,1,Dr. R Hari Kishore
+CO,1,Dr. K Ram Mohan Rao;K Srinivasa Chakravarthy;Dr. B Kezia Rani
+DBMS,1,Dr. S Aruna;G Radha;Some Sanyal
+DAA,1,DRL Prasanna;C Sireesha;Haseeb Yaseen
+FSD,1,S Renuka;Dr. B Kezia Rani;M Sathya Devi
+OE-II,1,N David Raju;Dr. S K Prashanth
+HVPE-II,1,Sreeja
+SDC-III: APT,2,Hari Krishna
+SDC-IV: TS-II,2,External Expert
+DBMS Lab,2,Dr. S Aruna;Dr. S K Prashanth;G Radha;B Leelavathy;Some Sanyal
+DAA Lab,2,DRL Prasanna;C Sireesha;Haseeb Yaseen;R Nanda Kumari
+FSD Lab,2,S Renuka;Dr. B Kezia Rani;Dr. K Rama Krishna;N David Raju;M Sathya Devi
+CCA-II,2,Dr. S Sreelakshmi;R Nanda Kumari;G Radha;Dr. M Neelakantappa;Sruthi Anand
+Sports,1,Coach
+Library,1,
+Mentoring,1,
